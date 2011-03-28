@@ -1,0 +1,16 @@
+git init  ------  inicia un proyecto
+git commit ---  se hace el cambio definitivo en el repositorio
+git diff ------  marca las diferencias entre los archivos creados
+git branch ---- crea una rama experimental en paralelo con la principal
+git merge ---- vuelve a la rama principal incorporandole los cambios de la otra rama
+git branch ---- muestra las ramas y en cual se esta trabajando actualmente
+git checkout -- cambia de rama
+git add ------ añade un fichero al repositorio
+git clone ----- copia un repositorio
+git status ----- muestra el estado de los archivos del directorio
+git log ------- muestra los commit the una rama
+git tag ------- marca alguno de los puntos para no perderlo de vista
+git fetch -----  descarga nuevas ramas e informacion desde un repositorio remoto
+git push ------ coloca una rama o información en un repositorio remoto
+git reset HEAD - vuelve un paso atrás,se usa cuando algo se hizo accidentalmente
+git help------- muestra la informacion de los comandos de git
